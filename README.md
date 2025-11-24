@@ -42,3 +42,4 @@ Build and Run the project:
 ```bash
 make -B
 sudo ./tcpcw
+<img width="1919" height="1027" alt="Screenshot from 2025-11-23 16-58-59" src="https://github.com/user-attachments/assets/25767a66-075e-45fd-a524-adcb2ff1d449" />
