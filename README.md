@@ -45,5 +45,5 @@ sudo ./tcpcw
 ```
 
 
-<img width="1919" height="1027" alt="Screenshot from 2025-11-23 16-58-59" src="https://github.com/user-attachments/assets/0dd23d02-afb9-45b8-8cd4-42e7419ae7bd" />
 
+[Screencast from 11-23-2025 08:02:06 PM.webm](https://github.com/user-attachments/assets/3b6e0b4c-c175-4b38-aa41-653e343d4292)
